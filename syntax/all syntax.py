@@ -266,7 +266,7 @@ print(listaMult)
 print("------------------------------------------")
 
 listToOperate = ["a", "b", "c", "d", "e", "f", "g"]
-# LIST OPERATORS/FUNCIONS
+# LIST OPERATORS/FUNCTIONS
 # Delete/Remove item
 # Structure:
 # del [index] - Deletes the item of the given index #
